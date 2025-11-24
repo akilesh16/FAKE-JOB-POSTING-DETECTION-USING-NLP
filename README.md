@@ -14,7 +14,8 @@ fake_job_postings.csv
 Contains job descriptions along with a label indicating whether the post is real or fraudulent.
 
 Link to notebook (uploaded by user):
-/mnt/data/fakejobposting.ipynb
+https://colab.research.google.com/drive/1AZKVsK-xwoIZ9fyfDq-Oq4a518jamoNi
+
 
 🚀 Project Workflow
 1️⃣ Data Preprocessing
@@ -51,6 +52,7 @@ Random Forest	✔️ Tested
 SVM	✔️ Tested
 Naïve Bayes	✔️ Tested
 XGBoost / BERT	🚧 (Future Work)
+
 5️⃣ Evaluation Metrics
 
 Accuracy
